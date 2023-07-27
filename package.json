@@ -1,0 +1,20 @@
+{
+  "name": "binary-tree",
+  "version": "1.0.0",
+  "description": "Binary tree - It's a straightforward way to organize and store data with fast lookup and insertion capabilities.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfomar1/binary-tree.git"
+  },
+  "author": "Lucas Omar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfomar1/binary-tree/issues"
+  },
+  "homepage": "https://github.com/lfomar1/binary-tree#readme"
+}
